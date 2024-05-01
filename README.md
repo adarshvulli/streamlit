@@ -7,7 +7,7 @@ This is a Streamlit application for People Analytics.
 Before you begin, ensure you have met the following requirements:
 
 * You have installed the latest version of Python.
-*
+
 
 ## Installing Streamlit People Analytics Application
 
